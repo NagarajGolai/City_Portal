@@ -1,11 +1,10 @@
-
-# City Portal
+## City Portal
 
 City Portal is a smart city platform that provides real-time updates on public safety, local events, news, and emergency services. It helps citizens stay informed, access essential resources, and engage with their community—all in one place.
 
-🔐 Authentication
+#### 🔐 Authentication
 + Sign Up: Users register with an email and password.
-+ Email Verification: A confirmation link is sent to activate the account.
++ Email Verification: A confirmation link is sent to activate the account.(You can e-mail the admin to get confirmed)
 + Sign In: Users log in with their verified email and password.
 
 ### 🔗 Link to the website
