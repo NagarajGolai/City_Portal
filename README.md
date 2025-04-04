@@ -8,8 +8,8 @@ City Portal is a smart city platform that provides real-time updates on public s
 + Email Verification: A confirmation link is sent to activate the account.
 + Sign In: Users log in with their verified email and password.
 
-## 🔗 Link to the website
-[![City Portal](https://img.shields.io/badge/City%20Portal-000000?style=for-the-badge&logoColor=white)](https://codeginger.pythonanywhere.com/)
+### 🔗 Link to the website
+[![City Portal](https://img.shields.io/badge/City%20Portal-FFFF00?style=for-the-badge&logoColor=white)](https://codeginger.pythonanywhere.com/)
 
 
 
@@ -70,7 +70,7 @@ python manage.py runserver
 ```
 Now, open http://127.0.0.1:8000/ in your browser.
 
-## Links
+### Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarajgolai)
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-800080?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nagarajgolai-portfolio.netlify.app/)
